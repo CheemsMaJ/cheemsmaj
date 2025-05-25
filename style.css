@@ -105,10 +105,11 @@ html {
     }
   }
   img{
-    width: 640px;
+    width: 100%;
     height: auto;
     margin: 0 auto;
     display: block;
+    aspect-ratio: auto;
   }
   
   /* Kanawashi Rain
